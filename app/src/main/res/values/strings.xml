@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MortgageCalculatorFinal2</string>
+    <string name="text1"><font size="14">please enter the mortgage principle amount</font></string>
+    <string name="text2"><font size="14">please enter the percentage in decimal number</font></string>
+    <string name="text3"><font size="14">please enter the period in years</font></string>
+    <string name="button1">Calculate</string>>
+</resources>
